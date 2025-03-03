@@ -14,5 +14,7 @@ public class ArraycopyMethod {
 		// Copying element in same array.
 		System.arraycopy(arr1, 0, arr1, 4, 4);
 		System.out.println(Arrays.toString(arr1));
+		
+		System.out.println("just done");
 	}
 }
